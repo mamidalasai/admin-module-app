@@ -1,0 +1,27 @@
+unique_ids:
+  forms:
+    log_in_form.Home.revenue_share: '1698510617027417138837187.6812'
+    log_in_form.Home.manage_reports: '1698510790972444753270153.69006'
+    log_in_form.Home: '169838228559032231040135.46263'
+    log_in_form: GUGLRS4VVV3FBLZUMSK4OE75PW55BHQW
+    log_in_form.Home.loan_management: '1698510496370567653860910.7308'
+    log_in_form.Home.admin_teams.view_profile: '1698854972350390763170561.2675'
+    log_in_form.Home.performance_tracke: '1698858550617535212188881.0073'
+    log_in_form.Home.manage_cms: '1698510754472259835130229.36667'
+    log_in_form.Home.admin_teams.view_profile.update_form: '1698899789994986117374399.0231'
+    log_in_form.Home.manage_settings: '1698510570970805808175551.8953'
+    log_in_form.Home.admin_teams: '1698750803552258359376441.58456'
+    log_in_form.Home.name1: '1698921375750747661291210.6167'
+    Log_in_Home: '1698727115891669303119860.9404'
+    log_in_form.Home.manage_products: '1698510531650695240800375.4204'
+    log_in_form.Home.admin_teams.view_profile.edit_form: '1698907575731908465721374.0109'
+    log_in_form.Home.risk_pool: '1698510663776338046362020.20764'
+    log_in_form.Home.borrowers: '1698510391677311917004052.9009'
+    log_in_form.Home.lenders: '1698510463208765568412581.0891'
+    log_in_form.Home.ROI: '1698728518958724320447228.9803'
+  modules: {}
+  server_modules:
+    ServerModule1: '1698747873220484267261740.3767'
+  assets:
+    standard-page.html: 47DIUHMYOO73XUOKOULAQGEG3ID5KWFA
+    theme.css: FHCNBOROE6DDQRIAFPVXGN2IIQMONYV6
