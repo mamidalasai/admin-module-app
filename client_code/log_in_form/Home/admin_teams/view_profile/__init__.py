@@ -52,6 +52,20 @@ class view_profile(view_profileTemplate):
 
   def button_4_click(self, **event_args):
     """This method is called when the button is clicked"""
+    data = tables.app_tables.admin_teams.search()
+    a = -1
+    for row in data:
+      a += 1
+
+    
+    last = data[a]
+    last.delete()
+    self.label_7.text = ""
+    self.label_8.text = ""
+    self.label_9.text = ""
+    self.label_10.text = ""
+    self.label_11.text = ""
+    self.label_13.text = ""
     
     
     
