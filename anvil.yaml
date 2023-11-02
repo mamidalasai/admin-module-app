@@ -7,7 +7,7 @@ services:
 startup: {type: form, module: log_in_form.Home}
 package_name: Admin_app
 allow_embedding: false
-name: Clone of 02-11-2023,sai afternoon (2)
+name: admin module
 runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
   server_spec: null}
 startup_form: null
